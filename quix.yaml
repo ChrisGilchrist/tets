@@ -45,3 +45,6 @@ topics:
   - name: f1-data
     configuration:
       partitions: 1
+  - name: hard-braking
+    configuration:
+      partitions: 1
