@@ -12,7 +12,7 @@ deployments:
     version: latest
     deploymentType: Service
     resources:
-      cpu: 201
+      cpu: 202
       memory: 500
       replicas: 1
     variables:
