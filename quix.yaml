@@ -30,7 +30,7 @@ deployments:
       memory: 500
       replicas: 1
     variables:
-      - name: test
+      - name: testyyyy
         inputType: InputTopic
         description: This is the input topic for f1 data
         required: true
