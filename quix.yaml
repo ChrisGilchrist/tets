@@ -26,7 +26,7 @@ deployments:
     version: latest
     deploymentType: Service
     resources:
-      cpu: {{ test }}
+      cpu: { test }
       memory: 500
       replicas: 1
     variables:
